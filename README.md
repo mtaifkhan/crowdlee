@@ -3,6 +3,7 @@
 A social media Application with backend firebase.
 
 
+
 Star this repo if you like what you see.
 
 
@@ -42,12 +43,18 @@ Star this repo if you like what you see.
   
 </div>
 </div>
+-----------
+<div style="display:flex;flex-direction:column;">
+<div style="display:flex;margin-bottom:50px;">
 
+<img src="https://user-images.githubusercontent.com/62006307/223388430-51f3def5-9101-4fec-bf07-40e50855bc00.png" alt="onbording Screen 4" style="width:250px;height:500px;margin-right:200px;">
 
+  <img src="https://user-images.githubusercontent.com/62006307/223403087-2f469524-21d0-4098-a362-6bec43dd1dc5.png" alt="onbording Screen 2" style="width:250px;height:500px;margin-right:100px;">
+  
+  
 
-![Screenshot_1678173553](https://user-images.githubusercontent.com/62006307/223388395-b66b6c09-9c17-4de1-90b9-684ba2bdf482.png)
-![Screenshot_1678173804](https://user-images.githubusercontent.com/62006307/223388422-c96514ea-b307-4c8f-876a-0b626840eeee.png)
-![Screenshot_1678173897](https://user-images.githubusercontent.com/62006307/223388430-51f3def5-9101-4fec-bf07-40e50855bc00.png)
+</div>
+
 
 ## Author(s)
 **Emmanuel Fache**
